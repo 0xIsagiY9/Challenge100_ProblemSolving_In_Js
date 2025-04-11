@@ -1,0 +1,22 @@
+{
+  "name": "challenge-100---problem-solving-in-js",
+  "version": "1.0.0",
+  "description": "Challenge 100 - Problem Solving in JS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "problem-solving"
+  ],
+  "author": "0xIsagiY9",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
